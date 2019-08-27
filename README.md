@@ -1,4 +1,4 @@
-# Coding-a-Blue-Screen
+# Coding a Blue Screen
 
 ### Orginal İmage
 ![midoria](https://user-images.githubusercontent.com/47830409/63759013-70514e80-c8c5-11e9-92a2-86ac249e723a.jpg)
